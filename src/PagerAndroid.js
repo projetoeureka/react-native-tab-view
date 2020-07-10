@@ -2,7 +2,7 @@
 
 import * as React from 'react';
 import { View, StyleSheet, I18nManager } from 'react-native';
-import ViewPager from '@react-native-community/viewpager';
+import ViewPagerAndroid from '@react-native-community/viewpager';
 import { PagerRendererPropType } from './PropTypes';
 import type { PagerRendererProps } from './TypeDefinitions';
 
